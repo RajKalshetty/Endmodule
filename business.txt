@@ -1,0 +1,12 @@
+Business Entities for Employee Recruitment System
+
+1.Employer
+2.Organization
+3.job post
+4.Candidate
+5.Application
+
+
+Business Operations-
+
+

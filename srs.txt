@@ -1,0 +1,49 @@
+SRS document for Employee Recruitment System
+
+1. Introduction
+1.1 Purpose
+The purpose of this document is to specify the requirements for the development of an Employee Recruitment System. 
+The application aims easy recruitment process by providing a platform for managing job postings,organization requirement,
+candidate applications , and the overall recruitment procedure.
+
+1.2 Scope
+The Employee Recruitment System will be a web-based application that allows the HR department to post job vacancies(Staffing requirements)
+track candidate applications. It will include features such as job posting management, 
+candidate database, application tracking, intinterview scheduling, and reporting.
+
+
+Function Requirements-
+
+1. Job posting-
+Organization will able to post job application for theie staff with details such as title, description, requirements, and deadline.
+Organization can edit existing job postings.
+Organization can remove job postings.
+Job postings should be categorized by departments or job types.
+Also Candidate can able to search job as per their requirement and apply the for the Job .
+
+
+2. User(Candidate) database
+Candidate can create user account and store the info.
+All the Candidate can store their information such as Qualification ,past experience,Basic info(name,address etc.)
+Candidate can edit their CV.
+Candidate can remove the information.
+
+3. Application Tracking
+After applying the job candidate can able to track the application status .
+Aplication status must contains the info regrading job procedure i.e.which procedure are completed and what are the next step to follow.
+In application status details show
+1.Application date
+2.Job details
+3.Review status
+4.Further procedure.
+
+4. Interview Scheduling
+If candidate fulfill the te oraganization requireent ,oraganization can schedule the interview .
+Application must contains all the details regrading interview process ,venue and date range. 
+
+5 Reporting
+The Application should provide pre-defined report templates.
+Organization can generate reports based on selected criteria, such as date range, department, or job type.
+
+ 
+ 
